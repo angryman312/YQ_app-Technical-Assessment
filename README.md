@@ -1,4 +1,4 @@
-### 📊 SaaS Analytics Dashboard
+# 📊 SaaS Analytics Dashboard
 
 A sleek, responsive analytics dashboard built with **React**, **TypeScript**, and **Tailwind CSS** to simulate a modern SaaS admin panel with authentication, charts, and data tables.
 
